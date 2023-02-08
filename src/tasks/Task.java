@@ -8,7 +8,7 @@ import java.time.LocalDateTime;
 
 public class Task implements Comparable<Task>{
 
-    private String title;  // имя задачи
+    private String title;  // имвыя задачи
     private String description;  // Описание задачи
     private int id = 0;
     private TaskStatus status;
